@@ -8,7 +8,7 @@ To load them in your shell, you need to source `import.zsh` from your `~/.zshrc`
 Clone this repository (example path: `~/.dotfiles`):
 
 ```zsh
-$ git clone https://github.com/funahashikeita/.dotfiles.git
+$ git clone https://github.com/funahashikeita/.dotfiles.git ~/.dotfiles/
 ```
 
 ## Zsh Setup
