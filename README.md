@@ -42,7 +42,7 @@ This repository contains my iTerm2 configuration for multiple machines.
 
 1. Check **Load preferences from a custom folder or URL**
 
-1. Select the folder: `~/dotfiles/iterm2`
+1. Select the folder: `~/.dotfiles/iterm2`
 
 1. When prompted **"Copy Local preferences to custom folder?" → NO**
 
@@ -51,4 +51,9 @@ This repository contains my iTerm2 configuration for multiple machines.
 1. (Optional) Check **Save changes to folder when iTerm2 quits**
 
     - This ensures that any changes in iTerm2 are automatically saved back to the repository folder
+
+### iTerm2 Hotkey
+
+- **Toggle iTerm2 visibility** using `Option + Space`  
+- Pressing this hotkey will **hide or show iTerm2** quickly, regardless of which app is currently active
 
